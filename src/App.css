@@ -191,10 +191,17 @@ hr{
 }
 
 #skills ul{
-  width: 100%;
+  width: 50%;
+  list-style-type: circle;
+  margin: 0 auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+#skills ul li{
+  flex: 1 0 25%;
+  box-sizing: border-box;
+  padding: 10px;
 }
 
 /* ***************************
