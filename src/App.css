@@ -325,9 +325,10 @@ footer ul li a{
 }
 
 .cForm{
-  width: 60%;
+  width: 80%;
+  margin: 0 auto;
   border: 1px solid #2196f3;
-  background-color: #000;
+  background-color: #f7f7f7;
   display: flex;
   flex-direction: column;
   justify-content: center;
