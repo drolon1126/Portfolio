@@ -170,6 +170,10 @@ hr{
   margin-left: 20px;
 }
 
+.about a {
+  color: blue;
+}
+
 @media(max-width:800px) {
   #about, #two-cols {
     flex-direction: column;
