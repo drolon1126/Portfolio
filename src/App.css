@@ -330,6 +330,7 @@ footer ul li a{
   background-color: #000;
   display: flex;
   flex-direction: column;
+  justify-content: center;
 }
 
 input[type=text],input[type=email], select, textarea {
