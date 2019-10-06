@@ -20,6 +20,13 @@ const NavBar = props => {
           duration={500}
         >About</Link></li>
         <li><Link
+          to="skills"
+          spy={true}
+          smooth={true}
+          offset={-70}
+          duration={500}
+        >Skills</Link></li>
+        <li><Link
           to="projects"
           spy={true}
           smooth={true}

@@ -198,6 +198,12 @@ hr{
   background-color: #f7f7f7;
 
 }
+#skills ul{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
 #projects .grid li{
   padding: 20px;
