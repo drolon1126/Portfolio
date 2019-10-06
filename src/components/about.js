@@ -15,7 +15,7 @@ const About = props => {
           interact with software.
           I aspire to use my background in game design and web development to
           create wonderful user experiences in the software I develop.</p>
-          <p>If you would like to contact me, please send me an email at: <a href = "mailto: daniel.rolon@yahoo.com">daniel.rolon@yahoo.com</a></p>
+          <p>If you would like to contact me, please send me an email at: <a class='email' href = "mailto: daniel.rolon@yahoo.com">daniel.rolon@yahoo.com</a></p>
         </div>
         <p>&nbsp;</p>
       </div>
