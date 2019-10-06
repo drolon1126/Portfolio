@@ -5,8 +5,8 @@ const Contact = props => {
   return (
     <div id="contact">
       <h3 class="title">Contact Me</h3>
-      <div >
-      <form className='cform' action="/action_page.php">
+      <div className='cform'>
+      <form action="/action_page.php">
         <label>First Name</label>
         <input type="text" id="fname" name="firstname" placeholder="Your name.." />
         <label>Last Name</label>
