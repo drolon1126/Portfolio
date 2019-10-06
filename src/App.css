@@ -327,6 +327,7 @@ footer ul li a{
 .cForm{
   width: 80%;
   margin: 0 auto;
+  padding: 20px;
   border: 1px solid #2196f3;
   background-color: #f7f7f7;
   display: flex;
@@ -351,7 +352,6 @@ input[type=submit] {
   border: none;
   border-radius: 4px;
   cursor: pointer;
-  justify-content: center;
 }
 input[type=submit]:hover {
   background-color: #45a049;
