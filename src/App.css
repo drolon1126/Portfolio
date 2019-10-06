@@ -182,11 +182,20 @@ hr{
   }
 
 /* ***************************
+          Skills
+*************************** */
+
+#skills{
+  background-color: #fff;
+
+}
+
+/* ***************************
           Projects
 *************************** */
 
 #projects{
-  background-color: #fff;
+  background-color: #f7f7f7;
 
 }
 
@@ -283,7 +292,8 @@ footer ul li a{
 }
 
 .cForm{
-  width: 100%;
+  width: 60%;
+  min-width: 400px;
   border: 1px solid #2196f3;
   background-color: #000;
 }
