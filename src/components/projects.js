@@ -19,7 +19,7 @@ const Projects = props => {
           </a>
         </li>
         <li class="small" >
-          <a class="pLink" href="https://anime-repo-h5zq95ubi.now.sh/">
+          <a class="pLink" href="https://anime-repo.danielrolon.now.sh/">
             <h4 className='pTittle'>Anime Tracker</h4>
             <p>A website built using React.js to access the AniList API to track and display anime</p>
             <img src={atrack} />
